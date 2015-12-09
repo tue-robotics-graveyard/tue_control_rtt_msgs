@@ -1,8 +1,8 @@
 <package>
-  <name>tue_control_rtt_srvs</name>
+  <name>tue_control_rtt_msgs</name>
   <version>0.1.1</version>
   <description>
-      Service file definitions for interaction with the tue_control_rtt orocos components via ROS.
+      Message definitions for interaction with the tue_control_rtt orocos components via ROS.
   </description>
 
   <maintainer email="reinzor@gmail.com">Rein Appeldoorn</maintainer>

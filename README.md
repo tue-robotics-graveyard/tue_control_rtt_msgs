@@ -1,2 +1,2 @@
-tue_control_rtt_srvs
+tue_control_rtt_msgs
 ============
