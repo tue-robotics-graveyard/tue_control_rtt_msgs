@@ -1,0 +1,24 @@
+<package>
+  <name>tue_control_rtt_srvs</name>
+  <version>0.1.1</version>
+  <description>
+      Service file definitions for interaction with the tue_control_rtt orocos components via ROS.
+  </description>
+
+  <maintainer email="reinzor@gmail.com">Rein Appeldoorn</maintainer>
+
+  <license>BSD</license>
+
+  <author>Rein Appeldoorn</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rtt</build_depend>
+  <build_depend>message_generation</build_depend>
+  <build_depend>rtt_roscomm</build_depend>
+
+  <run_depend>rtt</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>rtt_roscomm</run_depend>
+  
+</package>
