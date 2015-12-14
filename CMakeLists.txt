@@ -8,6 +8,8 @@ add_message_files(
     FILES
     JointControllerAction.msg
     ControllerManagerAction.msg
+    ControllerState.msg
+    ControllerStates.msg
 )
 
 generate_messages()
