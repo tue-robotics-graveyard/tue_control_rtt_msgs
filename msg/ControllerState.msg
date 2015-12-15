@@ -1,5 +1,3 @@
-#std_msgs/Header header   # TODO
-
 # Controller inputs
 float32 measurement      
 float32 ref_position
