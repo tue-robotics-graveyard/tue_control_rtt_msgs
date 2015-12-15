@@ -1,1 +1,1 @@
-JointControllerAction[] actions
+ControllerAction[] actions

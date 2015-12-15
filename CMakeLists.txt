@@ -6,7 +6,8 @@ find_package(catkin REQUIRED message_generation rtt_roscomm)
 
 add_message_files(
     FILES
-    JointControllerAction.msg
+    KeyValue.msg
+    ControllerAction.msg
     ControllerManagerAction.msg
     ControllerState.msg
     ControllerStates.msg

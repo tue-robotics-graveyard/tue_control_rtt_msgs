@@ -1,2 +1,0 @@
-string joint
-string action
