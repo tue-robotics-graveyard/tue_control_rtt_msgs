@@ -1,3 +1,3 @@
-string   name
-string   action
-KeyValue parameters
+string     name
+string     action
+KeyValue[] parameters
